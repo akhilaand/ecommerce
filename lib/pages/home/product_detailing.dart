@@ -14,7 +14,7 @@ class Product_details extends StatelessWidget {
               height: 70,
               width: 150,
               color: Colors.yellow,
-              child: FittedBox(child: Text('Buy now')),
+              child: Text('Buy now'),
             ),
           ),
         ),
