@@ -8,7 +8,7 @@ class Product_details extends StatelessWidget {
         child: Center(
           child: InkWell(
             onTap: (){
-              print('hii');
+              print('heloo');
             },
             child: Container(
               height: 70,
